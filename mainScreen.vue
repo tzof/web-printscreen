@@ -27,7 +27,7 @@ export default {
       animationSpeed: 'linear', // 动画速度类型 timing
       animationEndType: 'forwards', // 动画结束时的状态 fill
       printImgScale: 0.1, // 截图缩放比例
-      dieoutTime: 40000, // 多少时间后盒子移出
+      dieoutTime: 4000, // 多少时间后盒子移出
       dieoutAnimationTime: 500, // 盒子移除动画时间
       toolShowTimer: null,
       dieoutTimer: null,
